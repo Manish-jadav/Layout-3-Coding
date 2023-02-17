@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.first_text{
+    color: red;
+}
+
+.middle_content{
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    
+}
+.coding_logo{
+    background-color: rgb(0, 3, 5);
+   padding-left: 0px;
+   text-align: center;
+    
+}
+.company{
+    color: rgb(130, 8, 8);
+    font-weight: 900;
+}
+.coded{
+    font-weight: 600;
+}
+.lorem_content
+{
+    padding-top: 30px;
+}
+.bottom_content{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50pxx;
+    text-align: justify;
+    background-color: rgb(242, 242, 242);
+}
+.right_bottom_content{
+    text-align: right;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.second{
+    font-weight: 900;
+    color: rgb(23, 174, 234);
+    font-size: 100px;
+    text-align: center;
+    
+}
+.end_content{
+    font-weight: 900;
+    font-size: 50px;
+}
+.earn_content{
+    font-size: 40px;
+}
+.text{
+    text-align: justify;
+}
