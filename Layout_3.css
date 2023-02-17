@@ -2,21 +2,73 @@
     padding: 0%;
     margin: 0%;
 }
+.des{
+    color: rgb(22, 171, 171);
+    font-size: 300px;
+}
+.list{
+    color:white;
+    padding-top: 40px;
+    margin-left: 40px;
+    font-weight: 700;
+    font-size:40px;
+    text-align: right;
+    padding-right: 20px;
+    padding-bottom: 100px;
+    
+    background-color: rgb(255, 253, 253,0.2);
+    
+}
+ul{
+    list-style-type: none;
+    margin-right: 20px;
+}
+.learn_prg
+{
+    background-color: rgba(223, 177, 27, 0.82);
+    font-size: 70px;
+    color: white;
+}
+.address{
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    background-color: rgb(255, 255, 255,0.1);
+
+}
+
+
+
+
+
+/*-------------------------------------------*/
 .first_text{
-    color: red;
+    color: rgb(208, 19, 19);
+    font-size: 100px;
+    letter-spacing: 2px;
 }
 
 .middle_content{
     padding-left: 50px;
     padding-top: 10px;
-    padding-bottom: 10px;
     padding-right: 50px;
+    
+    
+}
+.start{
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.course{
+    font-size: 30px;
+    letter-spacing: 2px;
     
 }
 .coding_logo{
     background-color: rgb(0, 3, 5);
-   padding-left: 0px;
    text-align: center;
+   margin-left: -30px;
+   
     
 }
 .company{
@@ -24,40 +76,52 @@
     font-weight: 900;
 }
 .coded{
-    font-weight: 600;
+    font-weight: 900;
+    font-size: 60px;
 }
 .lorem_content
 {
     padding-top: 30px;
 }
-.bottom_content{
+.left_bottom_content{
+    
+    
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 50px;
-    padding-bottom: 50pxx;
+    font-size: 25px;
+    padding-bottom: 50px;
     text-align: justify;
     background-color: rgb(242, 242, 242);
 }
 .right_bottom_content{
     text-align: right;
-    padding-top: 100px;
+    padding-top: -25px;
+    margin-top: 50px;
     padding-left: 100px;
     padding-right: 50px;
+    margin-right: -18px;
 }
 .second{
     font-weight: 900;
     color: rgb(23, 174, 234);
-    font-size: 100px;
+    font-size: 75px;
     text-align: center;
     
 }
 .end_content{
     font-weight: 900;
-    font-size: 50px;
+    font-size: 30px;
 }
 .earn_content{
-    font-size: 40px;
+    font-size: 27px;
 }
 .text{
     text-align: justify;
+    font-size: 16px;
+}
+.red_footer_line{
+    border: 2px solid red;
+    background-color: red;
+    height: 15px;
 }
