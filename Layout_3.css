@@ -2,7 +2,7 @@
     padding: 0%;
     margin: 0%;
 }
-section{
+.top_content{
     background-image: url("./coding.jpg");
     width: 100%;
     background-repeat: no-repeat;
@@ -46,8 +46,7 @@ section{
     background-color: white;
     opacity: 0.1;
     height: 300px;
-    width: 100%;
-   
+    width: 100%;   
 }
 .list_menu{
     margin-left: -79px;
@@ -59,7 +58,7 @@ section{
     font-weight: 900;
     font-size:60px;
     height: 700px;
-    width: 100%;
+    width: ;
     text-align: right;
     padding-right: 100px;
     padding-bottom: 100px;
@@ -73,12 +72,13 @@ ul{
 .learn_prg
 {
     background-color: rgba(223, 177, 27, 0.82);
-    font-size: 80px;
+    font-size: 75px;
     color: white;
     font-weight: 900;
-    height: 323px;
-    margin-bottom: -1px;
-    padding-top: 30px;
+    height: 100%;
+    margin-right: 0px;
+    margin-bottom: 92px;
+    padding-top: 50px;
 
 }
 .address{
@@ -89,14 +89,7 @@ ul{
     margin-left: -29px;
     text-align: right;
     background-color: rgb(255, 255, 255,0.1);
-
 }
-
-
-
-
-
-/*-------------------------------------------*/
 .first_text{
     color: rgb(208, 19, 19);
     font-size: 70px;
@@ -131,15 +124,15 @@ ul{
 
 .cod_logo{
     text-align: left;
-    padding-top: 50px;
-    margin-left: 30px;
-    
-
+    margin-top: 15px;
+    padding-left: 90px;
 }
 
 .txt{
-    padding-top: 70px;
-    margin-right: 200px;
+    text-align: left;
+    margin-top: 90px;
+    margin-left: -25px;
+    padding-right: 220px;
 
 }
 
@@ -161,18 +154,20 @@ ul{
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 50px;
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 50px;
     text-align: justify;
+    
     background-color: rgb(242, 242, 242);
 }
 .right_bottom_content{
     text-align: right;
-    padding-top: -25px;
-    margin-top: 50px;
-    padding-left: 100px;
-    padding-right: 50px;
+    
+    padding-top: 0px;
+    margin-top: 12px;
+    padding-right: 100px;
     margin-right: -18px;
+    padding-left: 30px;
 }
 .second{
     font-weight: 900;
@@ -190,7 +185,7 @@ ul{
 }
 .text{
     text-align: justify;
-    font-size: 16px;
+        font-size: 16px;
 }
 .red_footer_line{
     border: 2px solid red;
