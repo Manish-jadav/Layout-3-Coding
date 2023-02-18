@@ -122,27 +122,27 @@ ul{
 .coding_logo{
     background-color: rgb(36, 243, 243);
     margin-left: -29px;
+    padding-bottom: 46px;
    
 }
 .logo1{
     transform: rotate(320deg);
 }
-.t_txt{
-    margin-top: 0px;
-    margin-left: 0px;
-}
+
 .cod_logo{
     text-align: left;
+    padding-top: 50px;
+    margin-left: 30px;
+    
+
 }
-.com{
-    font-weight: 800;
-    font-size: 40px;
-       
+
+.txt{
+    padding-top: 70px;
+    margin-right: 200px;
+
 }
-.com_logo{
-    font-size: 10px;
-    font-weight: 700;
-}
+
 .company{
     color: rgb(130, 8, 8);
     font-weight: 900;
